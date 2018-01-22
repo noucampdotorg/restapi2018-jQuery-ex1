@@ -36,13 +36,13 @@ $ git status
 	1.	select all paragraphs
 	1.	select the unordered list
 	1.	select all classes called a
-	
-(d) select all classes called b
-	(e) select the id called ulist
-	(f) select all paragraphs labeled as class b
-	(g) select the text “Business” within the paragraph
-	(h) select only the third list item in the unordered list
-	(i) select the heading and the unordered list with one line of code
+	1.	select all classes called b
+	1.	select the id called ulist
+	1.	select all paragraphs labeled as class b
+	1.	select the text “Business” within the paragraph
+	1.	select only the third list item in the unordered list
+	1.	select the heading and the unordered list with one line of code
+
 
 
 
