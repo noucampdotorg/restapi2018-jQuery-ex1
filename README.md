@@ -1,10 +1,10 @@
-# RESTAPI COMP 2018 - Ajax Exercise 1
+# RESTAPI COMP 2018 - jQuery Exercise 1
 
 ## Clone the Exercise Remote Repository
 
 ```
 $ cd /xampp/htdocs
-$ git clone <GitHubRepository_URL>
+$ git clone https://github.com/noucampdotorg/restapi2018-jQuery-ex1.git
 $ cd restapi2018-jQuery-ex1
 $ ls or dir
 $ git status
