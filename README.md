@@ -15,12 +15,12 @@ $ git status
 ## Part 1 — Hello jQuery
 
 
-1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. Save it in a folder (e.g. ``restapi2018-jQuery-ex1``) in ``htdocs``.  Remember where you save it so you can access it in the code below.
+1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. Save it in the folder ``restapi2018-jQuery-ex1`` in ``htdocs``.  Remember where you save it so you can access it in the code below.
 	
 	
-1.	Write and execute your first jQuery page using the files ``FirstjQ.html`` and ``FirstjQ_js`` given.
+1.	Run your first jQuery program using the program file [http://localhost/restapi2018-jQuery-ex1/FirstjQ.html](http://localhost/restapi2018-jQuery-ex1/FirstjQ.html) and ``FirstjQ.js`` given.  Note this example uses jQuery 3.3.1 (i.e. ``jquery-3.3.1.min.js``).
 
 
-1.	Modify the code in ``FirstjQ.js`` so that the alert code is in a separate function called ``printHello()``.
+1.	Modify the code in ``FirstjQ.js`` to print "hello world" to the browser's console window as well.  Check it works.  F12 key!!
 
 
