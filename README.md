@@ -15,7 +15,7 @@ $ git status
 ## Part 1 — Hello jQuery
 
 
-1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. You could save it in any folder or ``htdocs`` for convenience.
+1.	Go to [http://www.jquery.com](http://www.jquery.com) and download the latest Development version. Save it in a folder (e.g. ``restapi2018-jQuery-ex1``) in ``htdocs``.  Remember where you save it so you can access it in the code below.
 	
 	
 1.	Write and execute your first jQuery page using the files ``FirstjQ.html`` and ``FirstjQ_js`` given.
