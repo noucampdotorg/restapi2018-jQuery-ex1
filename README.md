@@ -32,9 +32,10 @@ $ git status
 
 
 1.	Use appropriate jQuery code to select (using red box line) the following content using *Basic Selectors*. Test one at a time.
-	a.	select all paragraphs
-	b.	select the unordered list
-	c.	select all classes called a
+
+	a)	select all paragraphs
+	b)	select the unordered list
+	c)	select all classes called a
 	
 (d) select all classes called b
 	(e) select the id called ulist
